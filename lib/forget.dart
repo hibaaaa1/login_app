@@ -20,7 +20,7 @@ class _ForgetPasswordState extends State<ForgetPassword> {
             style: TextStyle(
               color: Colors.black,
               fontSize: 20,
-              fontWeight: FontWeight.w200,
+              fontWeight: FontWeight.w200   ,
             ),
           ),
           SizedBox(height: 8),
